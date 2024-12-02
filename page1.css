@@ -1,0 +1,43 @@
+*{     
+    box-sizing:border-box;
+    margin:0;
+ } 
+/* margin van de window word ook meegerekent  */
+
+
+#pic1{
+    display: block;  /*img word een block element, begint op een nieuwe regel*/
+    margin-right: auto;
+    position: relative;
+    top:22%;
+}
+
+#pictureme{
+    margin-top: 4%;
+    background: #808080;
+    width: 100vw;
+    height: 70vh
+    
+}
+
+#text1{
+    width: 40vw;
+    height: 20vh;
+    position: relative;
+    left: 55%;
+    top: -60%;
+}
+
+#overmij{
+    margin-left: 20%;
+    position:relative;
+    top:10%
+}
+
+#pic1bg{
+    background: #333333;
+    position:relative;
+    width: 19.55%;
+    height: 70%;
+    left:10%;
+}
